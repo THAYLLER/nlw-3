@@ -21,12 +21,6 @@ ___
 
 ___
 
-<p align="center">
-<img src="./assets/mobile.jpg" height=400 >
-</p>
-<br>
-<br>
-
 ## :information_source: About
 
 NLW is a week-long online event, where a complete application will be developed.
